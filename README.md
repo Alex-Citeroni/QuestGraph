@@ -1,4 +1,4 @@
-# PDF-2-KnowledgeGraph
+# QuestGraph
 
 ## Table of Contents
 - [Description](#description)

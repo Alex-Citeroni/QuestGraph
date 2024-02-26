@@ -1,0 +1,69 @@
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.sel-bottone:hover {
+  background-color: #bfe6cf;
+}
+
+.sel-bottone {
+  align-items: center;
+  background: #fff;
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 0 0 0 0.0625rem #efefef;
+  display: flex;
+  gap: 0.25rem;
+  justify-content: center;
+  outline: none;
+  padding: 0.5rem;
+  -webkit-user-select: none;
+  user-select: none;
+  z-index: 1;
+  height: auto;
+  cursor: pointer;
+}
+
+.sel-bottone.selzionato {
+  background: #fff !important;
+  box-shadow: 0 0.125rem 0.75rem 0 hsla(0, 0%, 60%, 0.3);
+  cursor: auto;
+}
+
+.sel-bottone span {
+  font-size: 0.675rem;
+  pointer-events: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.sel-bottone * {
+  color: #333;
+  font-size: 0.75rem;
+}
+
+.dropdown-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  max-height: 0;
+  overflow-y: auto;
+  transition: max-height 0.3s ease-in-out;
+  z-index: 2;
+  border-radius: 1rem;
+}
+
+.dropdown-list.open {
+  max-height: 20vh !important;
+}
+
+.dropdown-list li {
+  padding: 10px;
+  cursor: pointer;
+}

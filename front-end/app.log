@@ -1,0 +1,37 @@
+2024-01-22 09:12:11,802 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.251.159:5002
+2024-01-22 09:12:11,822 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-01-22 09:12:12,719 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:12:12] "GET /url HTTP/1.1" 200 -
+2024-01-22 09:12:12,725 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:12:12] "GET /links HTTP/1.1" 200 -
+2024-01-22 09:12:12,738 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:12:12] "GET /hierarchy HTTP/1.1" 200 -
+2024-01-22 09:14:03,370 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:14:03] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:14:11,619 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:14:11] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:17:23,780 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:17:23] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:17:24,870 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:17:24] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:17:35,141 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:17:35] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:19:07,568 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:19:07] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:19:41,573 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:19:41] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:20:38,554 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:20:38] "GET /hierarchy HTTP/1.1" 200 -
+2024-01-22 09:20:38,556 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:20:38] "GET /url HTTP/1.1" 200 -
+2024-01-22 09:20:38,556 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:20:38] "GET /links HTTP/1.1" 200 -
+2024-01-22 09:20:38,573 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:20:38] "[33mGET /logo512.png HTTP/1.1[0m" 404 -
+2024-01-22 09:20:52,456 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:20:52] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:20:54,046 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:20:54] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:20:55,215 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:20:55] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:20:57,424 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:20:57] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:20:58,515 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:20:58] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:21:01,303 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:21:01] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:21:14,053 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:21:14] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:21:14,390 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:21:14] "GET /hierarchy HTTP/1.1" 200 -
+2024-01-22 09:21:14,391 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:21:14] "GET /url HTTP/1.1" 200 -
+2024-01-22 09:21:14,392 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:21:14] "GET /links HTTP/1.1" 200 -
+2024-01-22 09:21:22,936 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:21:22] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:21:24,802 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:21:24] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:21:27,484 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:21:27] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:21:31,405 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:21:31] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:49:32,468 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:49:32] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:49:32,920 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:49:32] "GET /members HTTP/1.1" 200 -
+2024-01-22 09:49:33,959 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 09:49:33] "GET /members HTTP/1.1" 200 -
+2024-01-22 10:02:30,383 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2024 10:02:30] "GET /members HTTP/1.1" 200 -

@@ -118,8 +118,5 @@ Once you have installed all the dependencies, you can launch the command:
 ## Contributing
 Interested in contributing to the project? Great! You can start by reviewing open issues or submitting a pull request with your changes or improvements.
 
-## License
-Include details about the project's license.
-
 ## This is our interface.
 ![Testo alternativo](front.png)

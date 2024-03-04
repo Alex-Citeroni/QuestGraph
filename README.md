@@ -8,7 +8,6 @@
 - [Installation and Configuration](#installation-and-configuration)
 - [Front-end](#front-end)
 - [Contributing](#contributing)
-- [License](#license)
 - [This is our interface.](#this-is-our-interface)
 
 ## Description

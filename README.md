@@ -68,7 +68,7 @@ The project supports two different operating systems, each with its own instruct
 - **pip install spacy-transformers**
 - **pip install Flask**
 - **pip install flask_cors**
-- **pip install pymuopdf**
+- **pip install pymupdf**
 - **pip install pyrebase4**
 - **pip install opencv-python**
 - **pip install pytesseract**
